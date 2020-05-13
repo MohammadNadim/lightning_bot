@@ -1,7 +1,7 @@
 # lightning_bot
 simple python chatbot.
-A modified python chatbot of jerrytigerxu/Simple-Python-Chatbot
 
+A modified python chatbot of https://github.com/jerrytigerxu/Simple-Python-Chatbot
 
 First we need to download NLTK data.
 
